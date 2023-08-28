@@ -1,0 +1,174 @@
+Order Date,Product Category,Product Price,Customer State,Customer Country
+2015-01,Camping & Hiking,300.0,Arizona,EE. UU.
+2015-01,Men's Footwear,130.0,New York,EE. UU.
+2015-01,Camping & Hiking,300.0,California,EE. UU.
+2015-01,Fishing,400.0,California,EE. UU.
+2015-01,Women's Apparel,,Puerto Rico,Puerto Rico
+2015-01,Men's Footwear,,Puerto Rico,Puerto Rico
+2015-01,,130.0,Michigan,EE. UU.
+2015-01,Cleats,60.0,Pennsylvania,EE. UU.
+2015-01,Men's Footwear,130.0,Idaho,EE. UU.
+2015-02,Water Sports,200.0,Florida,EE. UU.
+2015-02,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2015-02,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2015-02,Cleats,60.0,Illinois,EE. UU.
+2015-03,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2015-03,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2015-03,Indoor/Outdoor Games,50.0,Texas,EE. UU.
+2015-03,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2015-03,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2015-03,Women's Apparel,,Texas,EE. UU.
+2015-03,Camping & Hiking,300.0,California,EE. UU.
+2015-03,Water Sports,200.0,Connecticut,EE. UU.
+2015-04,Women's Apparel,50.0,Texas,EE. UU.
+2015-04,Shop By Sport,40.0,Puerto Rico,Puerto Rico
+2015-04,Cleats,60.0,Connecticut,EE. UU.
+2015-04,,50.0,District of Columbia,EE. UU.
+2015-05,Fishing,400.0,Puerto Rico,Puerto Rico
+2015-05,Women's Apparel,50.0,California,EE. UU.
+2015-05,Cleats,60.0,Puerto Rico,Puerto Rico
+2015-05,Shop By Sport,40.0,California,EE. UU.
+2015-06,,,Illinois,EE. UU.
+2015-06,Fishing,400.0,Puerto Rico,Puerto Rico
+2015-06,Shop By Sport,40.0,California,EE. UU.
+2015-06,Fishing,400.0,Tennessee,EE. UU.
+2015-06,Cleats,60.0,California,EE. UU.
+2015-06,Fishing,400.0,Ohio,EE. UU.
+2015-06,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2015-06,Fishing,400.0,Puerto Rico,Puerto Rico
+2015-07,Cleats,60.0,Virginia,EE. UU.
+2015-07,Water Sports,200.0,Puerto Rico,Puerto Rico
+2015-07,,400.0,Texas,EE. UU.
+2015-07,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2015-07,,,Hawaii,EE. UU.
+2015-07,Men's Footwear,130.0,California,EE. UU.
+2015-07,Men's Footwear,130.0,Georgia,EE. UU.
+2015-07,Men's Footwear,130.0,Illinois,EE. UU.
+2015-07,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2015-07,,400.0,Maryland,EE. UU.
+2015-08,Camping & Hiking,,Texas,EE. UU.
+2015-08,Indoor/Outdoor Games,50.0,California,EE. UU.
+2015-08,Cleats,,New York,EE. UU.
+2015-08,Men's Footwear,130.0,Washington,EE. UU.
+2015-09,Cleats,60.0,Puerto Rico,Puerto Rico
+2015-09,,50.0,New York,EE. UU.
+2015-09,Men's Footwear,130.0,Texas,EE. UU.
+2015-09,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2015-09,Camping & Hiking,300.0,New York,EE. UU.
+2015-10,,50.0,California,EE. UU.
+2015-10,Women's Apparel,50.0,Ohio,EE. UU.
+2015-10,Women's Apparel,50.0,Illinois,EE. UU.
+2015-10,Cleats,60.0,Puerto Rico,Puerto Rico
+2015-10,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2015-10,Cleats,60.0,New York,EE. UU.
+2015-10,Water Sports,200.0,South Carolina,EE. UU.
+2015-10,,400.0,California,EE. UU.
+2015-11,Fishing,400.0,Texas,EE. UU.
+2015-11,Cleats,60.0,California,EE. UU.
+2015-11,Men's Footwear,130.0,Michigan,EE. UU.
+2015-11,Water Sports,200.0,Michigan,EE. UU.
+2015-11,Cleats,60.0,Texas,EE. UU.
+2015-12,Indoor/Outdoor Games,50.0,New York,EE. UU.
+2015-12,Men's Footwear,130.0,Illinois,EE. UU.
+2015-12,,,Puerto Rico,Puerto Rico
+2015-12,Women's Apparel,50.0,Hawaii,EE. UU.
+2015-12,Indoor/Outdoor Games,50.0,Indiana,EE. UU.
+2015-12,Cleats,60.0,Puerto Rico,Puerto Rico
+2016-01,Women's Apparel,50.0,North Carolina,EE. UU.
+2016-01,Men's Footwear,130.0,Florida,EE. UU.
+2016-01,Men's Footwear,,Missouri,EE. UU.
+2016-01,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2016-01,Women's Apparel,50.0,Virginia,EE. UU.
+2016-01,Men's Footwear,130.0,Illinois,EE. UU.
+2016-02,Water Sports,200.0,Utah,EE. UU.
+2016-02,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2016-02,Water Sports,200.0,South Carolina,EE. UU.
+2016-02,Men's Footwear,130.0,New Jersey,EE. UU.
+2016-02,Men's Footwear,130.0,Texas,EE. UU.
+2016-02,Cleats,60.0,Washington,EE. UU.
+2016-02,Camping & Hiking,300.0,Illinois,EE. UU.
+2016-02,,40.0,California,EE. UU.
+2016-02,Women's Apparel,50.0,Illinois,EE. UU.
+2016-03,Indoor/Outdoor Games,50.0,Pennsylvania,EE. UU.
+2016-03,Women's Apparel,50.0,Texas,EE. UU.
+2016-03,Cleats,60.0,Florida,EE. UU.
+2016-03,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2016-03,Fishing,400.0,Utah,EE. UU.
+2016-04,,50.0,Arizona,EE. UU.
+2016-04,,400.0,California,EE. UU.
+2016-05,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2016-05,Water Sports,200.0,Texas,EE. UU.
+2016-05,Fishing,400.0,Puerto Rico,Puerto Rico
+2016-06,Cardio Equipment,100.0,California,EE. UU.
+2016-06,Fishing,400.0,Puerto Rico,Puerto Rico
+2016-06,Camping & Hiking,300.0,Michigan,EE. UU.
+2016-07,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2016-07,Women's Apparel,50.0,California,EE. UU.
+2016-07,Indoor/Outdoor Games,50.0,Texas,EE. UU.
+2016-07,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2016-08,Men's Footwear,130.0,Texas,EE. UU.
+2016-08,Men's Footwear,,Puerto Rico,Puerto Rico
+2016-08,Camping & Hiking,300.0,Colorado,EE. UU.
+2016-09,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2016-09,Cleats,60.0,Ohio,EE. UU.
+2016-09,Cardio Equipment,100.0,Florida,EE. UU.
+2016-09,Camping & Hiking,300.0,Texas,EE. UU.
+2016-09,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2016-10,Cleats,60.0,California,EE. UU.
+2016-10,Cleats,60.0,New York,EE. UU.
+2016-10,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2016-10,,60.0,Connecticut,EE. UU.
+2016-10,Cleats,60.0,Puerto Rico,Puerto Rico
+2016-11,,400.0,Puerto Rico,Puerto Rico
+2016-11,Cardio Equipment,100.0,North Carolina,EE. UU.
+2016-11,Camping & Hiking,300.0,Puerto Rico,Puerto Rico
+2016-12,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2016-12,Women's Apparel,50.0,Missouri,EE. UU.
+2016-12,Fishing,400.0,Illinois,EE. UU.
+2016-12,Men's Footwear,130.0,Maryland,EE. UU.
+2016-12,Shop By Sport,40.0,Texas,EE. UU.
+2016-12,Camping & Hiking,300.0,Puerto Rico,Puerto Rico
+2016-12,Water Sports,200.0,Puerto Rico,Puerto Rico
+2016-12,Fishing,400.0,Hawaii,EE. UU.
+2017-01,,,Puerto Rico,Puerto Rico
+2017-01,Camping & Hiking,300.0,Maryland,EE. UU.
+2017-01,Indoor/Outdoor Games,50.0,Ohio,EE. UU.
+2017-01,Fishing,,Maryland,EE. UU.
+2017-01,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2017-02,Women's Apparel,50.0,Texas,EE. UU.
+2017-02,Indoor/Outdoor Games,50.0,Utah,EE. UU.
+2017-02,Cardio Equipment,100.0,Puerto Rico,Puerto Rico
+2017-02,Fishing,400.0,California,EE. UU.
+2017-02,Fishing,400.0,New York,EE. UU.
+2017-03,Cleats,60.0,Utah,EE. UU.
+2017-03,Shop By Sport,40.0,Pennsylvania,EE. UU.
+2017-03,Camping & Hiking,300.0,New Jersey,EE. UU.
+2017-03,Women's Apparel,50.0,California,EE. UU.
+2017-03,Water Sports,200.0,Puerto Rico,Puerto Rico
+2017-03,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2017-04,Camping & Hiking,300.0,California,EE. UU.
+2017-04,Water Sports,,Puerto Rico,Puerto Rico
+2017-05,Shop By Sport,40.0,Ohio,EE. UU.
+2017-05,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2017-05,Women's Apparel,50.0,Puerto Rico,Puerto Rico
+2017-05,,50.0,Puerto Rico,Puerto Rico
+2017-05,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2017-06,Men's Footwear,130.0,California,EE. UU.
+2017-06,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2017-07,Men's Footwear,130.0,South Carolina,EE. UU.
+2017-07,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2017-07,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
+2017-07,Indoor/Outdoor Games,50.0,Michigan,EE. UU.
+2017-07,Indoor/Outdoor Games,,Illinois,EE. UU.
+2017-07,Shop By Sport,40.0,Puerto Rico,Puerto Rico
+2017-08,Indoor/Outdoor Games,50.0,New York,EE. UU.
+2017-08,Men's Footwear,,Puerto Rico,Puerto Rico
+2017-08,Water Sports,,Puerto Rico,Puerto Rico
+2017-08,Cleats,60.0,Maryland,EE. UU.
+2017-08,Cleats,,Puerto Rico,Puerto Rico
+2017-08,Men's Footwear,130.0,Puerto Rico,Puerto Rico
+2017-08,Women's Apparel,50.0,New Jersey,EE. UU.
+2017-08,Cardio Equipment,100.0,Michigan,EE. UU.
+2017-08,Fishing,400.0,Georgia,EE. UU.
+2017-09,Water Sports,200.0,Puerto Rico,Puerto Rico
+2017-09,Indoor/Outdoor Games,50.0,Puerto Rico,Puerto Rico
